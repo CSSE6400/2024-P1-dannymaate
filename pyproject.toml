@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "2024-p1-dannymaate"
+version = "0.1.0"
+description = ""
+authors = ["dannymaate <dan-e-m@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
